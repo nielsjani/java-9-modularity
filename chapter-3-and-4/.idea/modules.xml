@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/chapter-3-and-4.iml" filepath="$PROJECT_DIR$/chapter-3-and-4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.rpg.core.gamestate/com.rpg.core.gamestate.iml" filepath="$PROJECT_DIR$/com.rpg.core.gamestate/com.rpg.core.gamestate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.rpg.core.inventory/com.rpg.core.inventory.iml" filepath="$PROJECT_DIR$/com.rpg.core.inventory/com.rpg.core.inventory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.rpg.core.party/com.rpg.core.party.iml" filepath="$PROJECT_DIR$/com.rpg.core.party/com.rpg.core.party.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.rpg.engine/com.rpg.engine.iml" filepath="$PROJECT_DIR$/com.rpg.engine/com.rpg.engine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.rpg.menu/com.rpg.menu.iml" filepath="$PROJECT_DIR$/com.rpg.menu/com.rpg.menu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.rpg.menu.api/com.rpg.menu.api.iml" filepath="$PROJECT_DIR$/com.rpg.menu.api/com.rpg.menu.api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.rpg.menu.inventory/com.rpg.menu.inventory.iml" filepath="$PROJECT_DIR$/com.rpg.menu.inventory/com.rpg.menu.inventory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.rpg.menu.party/com.rpg.menu.party.iml" filepath="$PROJECT_DIR$/com.rpg.menu.party/com.rpg.menu.party.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.rpg.menu.save/com.rpg.menu.save.iml" filepath="$PROJECT_DIR$/com.rpg.menu.save/com.rpg.menu.save.iml" />
+    </modules>
+  </component>
+</project>
