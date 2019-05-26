@@ -1,3 +1,5 @@
+package com.electioneer.passport.domain;
+
 public class Passport {
     private String id;
     private String hologramData;
