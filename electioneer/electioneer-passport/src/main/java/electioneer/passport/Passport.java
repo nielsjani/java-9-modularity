@@ -1,3 +1,5 @@
+package electioneer.passport;
+
 public class Passport {
     private String id;
     private String hologramData;
