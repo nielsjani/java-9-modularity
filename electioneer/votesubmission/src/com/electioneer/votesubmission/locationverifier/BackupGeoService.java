@@ -1,10 +1,15 @@
-package com.electioneer.geoservice;
+package com.electioneer.votesubmission.locationverifier;
 
-import static com.electioneer.geoservice.LocationData.locationData;
+import com.electioneer.geoservice.api.GeoService;
+import com.electioneer.geoservice.api.LocationData;
 
-public class GeoServiceImpl implements GeoService {
+import static com.electioneer.geoservice.api.LocationData.locationData;
+
+public class BackupGeoService implements GeoService {
+
     @Override
     public LocationData getLocation(String x, String y) {
+        System.out.println("Calling the backup geo service!");
         if(x.equals("1")) {
             return locationData()
                     .withMunicipality("Boortmeerbeekegem")

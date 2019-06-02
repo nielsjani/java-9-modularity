@@ -1,4 +1,6 @@
-package com.electioneer.translations;
+package com.electioneer.translations.api;
+
+import com.electioneer.translations.service.TranslationService;
 
 public class TranslationController {
 

@@ -1,8 +1,8 @@
 package com.electioneer.application;
 
 import com.electioneer.passportvalidation.internal.PassportValidatorController;
-import com.electioneer.translations.Translation;
-import com.electioneer.translations.TranslationController;
+import com.electioneer.translations.api.Translation;
+import com.electioneer.translations.api.TranslationController;
 import com.electioneer.votesubmission.controller.VoteController;
 import com.electioneer.votesubmission.controller.VoteSubmission;
 

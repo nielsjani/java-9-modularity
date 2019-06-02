@@ -1,4 +1,4 @@
-package com.electioneer.translations;
+package com.electioneer.translations.api;
 
 import java.util.HashMap;
 import java.util.Map;

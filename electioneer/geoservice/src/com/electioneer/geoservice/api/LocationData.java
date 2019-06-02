@@ -1,4 +1,4 @@
-package com.electioneer.geoservice;
+package com.electioneer.geoservice.api;
 
 public class LocationData {
     private String municipality;

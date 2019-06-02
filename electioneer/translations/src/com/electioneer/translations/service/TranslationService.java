@@ -1,4 +1,6 @@
-package com.electioneer.translations;
+package com.electioneer.translations.service;
+
+import com.electioneer.translations.api.Translation;
 
 import java.util.ResourceBundle;
 

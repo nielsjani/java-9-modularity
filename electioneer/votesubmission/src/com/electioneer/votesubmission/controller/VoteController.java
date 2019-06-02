@@ -1,7 +1,7 @@
 package com.electioneer.votesubmission.controller;
 
 import com.electioneer.votesubmission.other.FederalVoteHandler;
-import com.electioneer.votesubmission.other.LocationVerifier;
+import com.electioneer.votesubmission.locationverifier.LocationVerifier;
 import com.electioneer.votesubmission.other.MunicipalVoteHandler;
 import com.electioneer.votesubmission.other.RegionalVoteHandler;
 
