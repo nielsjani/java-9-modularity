@@ -1,13 +1,10 @@
 package com.electioneer.application;
 
-import com.electioneer.passport.Passport;
-import com.electioneer.passportvalidation.controller.PassportValidatorController;
+import com.electioneer.passportvalidation.internal.PassportValidatorController;
 import com.electioneer.translations.Translation;
 import com.electioneer.translations.TranslationController;
 import com.electioneer.votesubmission.controller.VoteController;
 import com.electioneer.votesubmission.controller.VoteSubmission;
-
-import static com.electioneer.passport.Passport.passport;
 
 
 public class Application {
@@ -38,20 +35,10 @@ public class Application {
     }
 
     private static void validatePassport() {
-        Passport validPassport = passport()
-                .withHologramData("This is a legal hologram.")
-                .withId("BE123456789")
-                .withLocationData("Somewhere over the rainbow")
-                .withPersonalData("Mr. Swamp-thing");
-        new PassportValidatorController().validatePassport(validPassport);
+        new PassportValidatorController().validatePassport("BE123456789", "This is a legal hologram.", "Somewhere over the rainbow", "Mr. Swamp-thing");
 
-        Passport invalidPassport = passport()
-                .withHologramData("This is a legal hologram.")
-                .withId("USA123456789")
-                .withLocationData("Somewhere over the rainbow")
-                .withPersonalData("Mr. Swamp-thing");
         try {
-            new PassportValidatorController().validatePassport(invalidPassport);
+            new PassportValidatorController().validatePassport("USA123456789", "This is a legal hologram.", "Somewhere over the rainbow", "Mr. Swamp-thing");
             throw new IllegalStateException("Should have failed!");
         } catch (IllegalArgumentException e) {
             System.out.println(e.getMessage());

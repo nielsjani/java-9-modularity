@@ -6,7 +6,14 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/electioneer.iml" filepath="$PROJECT_DIR$/.idea/electioneer.iml" />
       <module fileurl="file://$PROJECT_DIR$/geoservice/geoservice.iml" filepath="$PROJECT_DIR$/geoservice/geoservice.iml" />
       <module fileurl="file://$PROJECT_DIR$/passport/passport.iml" filepath="$PROJECT_DIR$/passport/passport.iml" />
-      <module fileurl="file://$PROJECT_DIR$/passport-validation/passport-validation.iml" filepath="$PROJECT_DIR$/passport-validation/passport-validation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/passport-validation-aggregator/passport-validation-aggregator.iml" filepath="$PROJECT_DIR$/passport-validation-aggregator/passport-validation-aggregator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/passport-validation-api/passport-validation-api.iml" filepath="$PROJECT_DIR$/passport-validation-api/passport-validation-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/passport-validation-external-future/passport-validation-external-future.iml" filepath="$PROJECT_DIR$/passport-validation-external-future/passport-validation-external-future.iml" />
+      <module fileurl="file://$PROJECT_DIR$/passport-validation-external-hologram/passport-validation-external-hologram.iml" filepath="$PROJECT_DIR$/passport-validation-external-hologram/passport-validation-external-hologram.iml" />
+      <module fileurl="file://$PROJECT_DIR$/passport-validation-external-id/passport-validation-external-id.iml" filepath="$PROJECT_DIR$/passport-validation-external-id/passport-validation-external-id.iml" />
+      <module fileurl="file://$PROJECT_DIR$/passport-validation-external-legacy/passport-validation-external-legacy.iml" filepath="$PROJECT_DIR$/passport-validation-external-legacy/passport-validation-external-legacy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/passport-validation-external-userdata/passport-validation-external-userdata.iml" filepath="$PROJECT_DIR$/passport-validation-external-userdata/passport-validation-external-userdata.iml" />
+      <module fileurl="file://$PROJECT_DIR$/passport-validation-internal/passport-validation-internal.iml" filepath="$PROJECT_DIR$/passport-validation-internal/passport-validation-internal.iml" />
       <module fileurl="file://$PROJECT_DIR$/translations/translations.iml" filepath="$PROJECT_DIR$/translations/translations.iml" />
       <module fileurl="file://$PROJECT_DIR$/votesubmission/votesubmission.iml" filepath="$PROJECT_DIR$/votesubmission/votesubmission.iml" />
     </modules>
