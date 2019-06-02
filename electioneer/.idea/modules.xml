@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/electioneer.iml" filepath="$PROJECT_DIR$/.idea/modules/electioneer.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/electioneer_main.iml" filepath="$PROJECT_DIR$/.idea/modules/electioneer_main.iml" group="electioneer" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/electioneer_test.iml" filepath="$PROJECT_DIR$/.idea/modules/electioneer_test.iml" group="electioneer" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/electioneer.iml" filepath="$PROJECT_DIR$/.idea/electioneer.iml" />
     </modules>
   </component>
 </project>
