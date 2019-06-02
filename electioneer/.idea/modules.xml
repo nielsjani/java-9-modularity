@@ -14,7 +14,6 @@
       <module fileurl="file://$PROJECT_DIR$/passport-validation-external-legacy/passport-validation-external-legacy.iml" filepath="$PROJECT_DIR$/passport-validation-external-legacy/passport-validation-external-legacy.iml" />
       <module fileurl="file://$PROJECT_DIR$/passport-validation-external-userdata/passport-validation-external-userdata.iml" filepath="$PROJECT_DIR$/passport-validation-external-userdata/passport-validation-external-userdata.iml" />
       <module fileurl="file://$PROJECT_DIR$/passport-validation-internal/passport-validation-internal.iml" filepath="$PROJECT_DIR$/passport-validation-internal/passport-validation-internal.iml" />
-      <module fileurl="file://$PROJECT_DIR$/translations/translations.iml" filepath="$PROJECT_DIR$/translations/translations.iml" />
       <module fileurl="file://$PROJECT_DIR$/votesubmission/votesubmission.iml" filepath="$PROJECT_DIR$/votesubmission/votesubmission.iml" />
     </modules>
   </component>
