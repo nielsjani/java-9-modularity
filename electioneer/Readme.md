@@ -31,22 +31,24 @@ Convert the code into Java 9 modules. Given the knowledge you have so far, try t
 ###2. B.U.B.
 The passport validation is so complex that it has been decided that this part will be developed by a separate team.
 Some agreements your team made with the Validation team:
-- The passport validation has to be in a separate module.
-- This module contains a great number of validators that will only grow in the future. 
+- The passport validation has to be in a separate module(s).
+- This module(s) contains a great number of validators that will only grow in the future. 
 A large number of applications will consume this module and every consumer will need its own subset of validators. 
-It is up to the consumers to figure out which validators they need. The validator team has agreed to put every validator in a separate package and export these packages separately. 
+It is up to the consumers to figure out which validators they need. 
+The validator team has agreed to put every validator in a separate package/module and export these packages/modules separately. 
 - The validator team will also provide a 'validator-settings' file that contains the properties needed to use their service. 
-Make sure you can read this property file that is located in the validator module from the 'main' module.
+Make sure you can read this property file that is located in the other team's validator module from your own validator module.
+- The validator team only wants clean objects to enter their domain. 
+Before calling any of their validators, check if all fields on the passport object are non-null
 
 ###3. CD&V
 
-Due to GDPR, the translations resource bundles will have to be stored in a separate module from the controller.
+The geoservice module is also managed by a new team. They sometimes forget to export their implementation of the geoservice interface (aka the 'provides ... with' line).
+Provide a backup implementation in case the official one is not found.
 
 ###4. DeDecker
 
-The translations module has been split into 'api' and 'implementation'. 
-The implementation module is managed by a new team, but they sometimes forget to export anything.
-Provide a backup implementation in case the official one is not found.
+Due to GDPR, the translations resource bundles will have to be stored in a separate module from the controller.
 
 ###5. Ecolo
 
