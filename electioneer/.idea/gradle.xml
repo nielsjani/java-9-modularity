@@ -8,6 +8,13 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/electioneer-application" />
+            <option value="$PROJECT_DIR$/electioneer-geoservice" />
+            <option value="$PROJECT_DIR$/electioneer-passport" />
+            <option value="$PROJECT_DIR$/electioneer-passport-validation" />
+            <option value="$PROJECT_DIR$/electioneer-solution" />
+            <option value="$PROJECT_DIR$/electioneer-translations" />
+            <option value="$PROJECT_DIR$/electioneer-votesubmission" />
           </set>
         </option>
         <option name="useAutoImport" value="true" />

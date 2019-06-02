@@ -2,8 +2,20 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel>
-      <module name="electioneer_main" target="1.8" />
-      <module name="electioneer_test" target="1.8" />
+      <module name="electioneer-application_main" target="1.9" />
+      <module name="electioneer-application_test" target="1.9" />
+      <module name="electioneer-geoservice_main" target="1.9" />
+      <module name="electioneer-geoservice_test" target="1.9" />
+      <module name="electioneer-passport-validation_main" target="1.9" />
+      <module name="electioneer-passport-validation_test" target="1.9" />
+      <module name="electioneer-passport_main" target="1.9" />
+      <module name="electioneer-passport_test" target="1.9" />
+      <module name="electioneer-translations_main" target="1.9" />
+      <module name="electioneer-translations_test" target="1.9" />
+      <module name="electioneer-votesubmission_main" target="1.9" />
+      <module name="electioneer-votesubmission_test" target="1.9" />
+      <module name="electioneer_main" target="1.9" />
+      <module name="electioneer_test" target="1.9" />
     </bytecodeTargetLevel>
   </component>
 </project>

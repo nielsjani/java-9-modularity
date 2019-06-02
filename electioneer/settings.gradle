@@ -1,2 +1,10 @@
 rootProject.name = 'electioneer'
+include 'electioneer-solution'
+include 'electioneer-solution'
+include 'electioneer-passport'
+include 'electioneer-passport-validation'
+include 'electioneer-geoservice'
+include 'electioneer-translations'
+include 'electioneer-votesubmission'
+include 'electioneer-application'
 

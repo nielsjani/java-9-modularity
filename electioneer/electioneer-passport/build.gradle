@@ -6,8 +6,6 @@ group 'electioneer'
 version '1.0-SNAPSHOT'
 
 sourceCompatibility = 1.9
-targetCompatibility = 1.9
-
 
 repositories {
     mavenCentral()
@@ -15,4 +13,5 @@ repositories {
 
 dependencies {
     testCompile group: 'junit', name: 'junit', version: '4.12'
+    compile project(':electioneer-passport-validation')
 }

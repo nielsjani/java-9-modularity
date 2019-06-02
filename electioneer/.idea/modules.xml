@@ -3,6 +3,25 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/electioneer.iml" filepath="$PROJECT_DIR$/.idea/modules/electioneer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/electioneer-application.iml" filepath="$PROJECT_DIR$/.idea/modules/electioneer-application.iml" group="electioneer-application" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/electioneer-application/electioneer-application_main.iml" filepath="$PROJECT_DIR$/.idea/modules/electioneer-application/electioneer-application_main.iml" group="electioneer-application" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/electioneer-application/electioneer-application_test.iml" filepath="$PROJECT_DIR$/.idea/modules/electioneer-application/electioneer-application_test.iml" group="electioneer-application" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/electioneer-geoservice.iml" filepath="$PROJECT_DIR$/.idea/modules/electioneer-geoservice.iml" group="electioneer-geoservice" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/electioneer-geoservice/electioneer-geoservice_main.iml" filepath="$PROJECT_DIR$/.idea/modules/electioneer-geoservice/electioneer-geoservice_main.iml" group="electioneer-geoservice" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/electioneer-geoservice/electioneer-geoservice_test.iml" filepath="$PROJECT_DIR$/.idea/modules/electioneer-geoservice/electioneer-geoservice_test.iml" group="electioneer-geoservice" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/electioneer-passport/electioneer-passport.iml" filepath="$PROJECT_DIR$/.idea/modules/electioneer-passport/electioneer-passport.iml" group="electioneer-passport" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/electioneer-passport-validation/electioneer-passport-validation.iml" filepath="$PROJECT_DIR$/.idea/modules/electioneer-passport-validation/electioneer-passport-validation.iml" group="electioneer-passport-validation" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/electioneer-passport-validation/electioneer-passport-validation_main.iml" filepath="$PROJECT_DIR$/.idea/modules/electioneer-passport-validation/electioneer-passport-validation_main.iml" group="electioneer-passport-validation" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/electioneer-passport-validation/electioneer-passport-validation_test.iml" filepath="$PROJECT_DIR$/.idea/modules/electioneer-passport-validation/electioneer-passport-validation_test.iml" group="electioneer-passport-validation" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/electioneer-passport/electioneer-passport_main.iml" filepath="$PROJECT_DIR$/.idea/modules/electioneer-passport/electioneer-passport_main.iml" group="electioneer-passport" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/electioneer-passport/electioneer-passport_test.iml" filepath="$PROJECT_DIR$/.idea/modules/electioneer-passport/electioneer-passport_test.iml" group="electioneer-passport" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/electioneer-solution/electioneer-solution.iml" filepath="$PROJECT_DIR$/.idea/modules/electioneer-solution/electioneer-solution.iml" group="electioneer-solution" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/electioneer-translations.iml" filepath="$PROJECT_DIR$/.idea/modules/electioneer-translations.iml" group="electioneer-translations" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/electioneer-translations/electioneer-translations_main.iml" filepath="$PROJECT_DIR$/.idea/modules/electioneer-translations/electioneer-translations_main.iml" group="electioneer-translations" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/electioneer-translations/electioneer-translations_test.iml" filepath="$PROJECT_DIR$/.idea/modules/electioneer-translations/electioneer-translations_test.iml" group="electioneer-translations" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/electioneer-votesubmission.iml" filepath="$PROJECT_DIR$/.idea/modules/electioneer-votesubmission.iml" group="electioneer-votesubmission" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/electioneer-votesubmission/electioneer-votesubmission_main.iml" filepath="$PROJECT_DIR$/.idea/modules/electioneer-votesubmission/electioneer-votesubmission_main.iml" group="electioneer-votesubmission" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/electioneer-votesubmission/electioneer-votesubmission_test.iml" filepath="$PROJECT_DIR$/.idea/modules/electioneer-votesubmission/electioneer-votesubmission_test.iml" group="electioneer-votesubmission" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/electioneer_main.iml" filepath="$PROJECT_DIR$/.idea/modules/electioneer_main.iml" group="electioneer" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/electioneer_test.iml" filepath="$PROJECT_DIR$/.idea/modules/electioneer_test.iml" group="electioneer" />
     </modules>
